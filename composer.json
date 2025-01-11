@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ticketevolution/ticketevolution-php": "^4.4",
+        "square/square": "36.0.0.20240417"
+    }
+}
