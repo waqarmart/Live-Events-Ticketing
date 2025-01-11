@@ -13,6 +13,9 @@ Start your startup business in online physical show tickets selling website with
 
 This plugin comes with Integrated Ticketevolution API's and automated list, sells tickets and orders management. Elevate physical live event management in all over United States with the Live Events Ticketing WordPress Plugin! Effortlessly manage, and sell tickets for live events directly from your website. Automated physical ticketing proces, and provide a seamless experience for your audience. Get ready to take your events business to the next level!
 
+Visit the plugin working demo on below url:
+https://demo.skpsoft.com/
+
 == Installation ==
 
 Thanks for downloading and installing "Live Events Ticketing" Plugin.
